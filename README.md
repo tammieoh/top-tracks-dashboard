@@ -1,2 +1,2 @@
-# top-tracks-dashboard
-Dashboard to display a user's top artists and songs 
+# Top Tracks Dashboard
+Dashboard to display a user's top artists and songs using Java SpringBoot.
