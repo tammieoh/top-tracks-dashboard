@@ -1,4 +1,4 @@
-package com.musicproject.toptracks;
+package com.musicproject.toptracks.model;
 
 public class Track {
     String title;

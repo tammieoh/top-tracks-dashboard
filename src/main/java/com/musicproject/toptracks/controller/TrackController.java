@@ -1,5 +1,6 @@
-package com.musicproject.toptracks;
+package com.musicproject.toptracks.controller;
 
+import com.musicproject.toptracks.model.Track;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
